@@ -16,11 +16,23 @@ h1 {
 }
 
 .fekete {
-    background-color: none;
+    background-color: white;
     color: black;
 }
 
 .feher {
     background-color: black;
     color: white;
+}
+
+.alakzat {
+    text-align: center;
+    font-size: 600%;
+    margin: 0px;
+}
+
+.kepalairas {
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
 }
